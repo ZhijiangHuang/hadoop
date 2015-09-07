@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hhjt.hadoop.mrunit.SMSCDRMapperReducerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.772 sec
